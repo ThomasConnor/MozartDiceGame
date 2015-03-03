@@ -8,9 +8,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import com.audio.*;
-
-@SuppressWarnings("unused")
 public class GUI {
 	static boolean firstplay = true;
 	
